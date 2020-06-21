@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "245413187967",
+    "firebase_url": "https://guide-to-justice.firebaseio.com",
+    "project_id": "guide-to-justice",
+    "storage_bucket": "guide-to-justice.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:245413187967:android:d43fd4c657e02fbddf0a4a",
+        "android_client_info": {
+          "package_name": "blm.g2j.GuideToJustice1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "245413187967-263e9pbkvp8va342vncrokl4822uemfj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAT71B80In7LagaCQgTin1dZ1FFZpsgY3I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "245413187967-263e9pbkvp8va342vncrokl4822uemfj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
